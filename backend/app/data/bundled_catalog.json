@@ -1,0 +1,1732 @@
+[
+  {
+    "tmdb_id": 27205,
+    "title": "Inception",
+    "tagline": "Your mind is the scene of the crime.",
+    "overview": "Cobb, a skilled thief who steals corporate secrets through dream-sharing technology, is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project.",
+    "release_year": 2010,
+    "runtime": 148,
+    "poster_path": "https://image.tmdb.org/t/p/w500/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/w1280/8ZTVqvKDQ8emSGUEMjsS4yHAwrp.jpg",
+    "trailer_url": "https://www.youtube.com/embed/YoHD9XEInc0",
+    "imdb_rating": 8.8,
+    "cineverse_score": 9.6,
+    "genres": [
+      "Sci-Fi",
+      "Action",
+      "Thriller"
+    ],
+    "director": "Christopher Nolan",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Elliot Page",
+      "Tom Hardy"
+    ],
+    "keywords": [
+      "dreams",
+      "subconscious",
+      "heist",
+      "mind-bending",
+      "totem"
+    ],
+    "vibe_tags": [
+      "Mind-Bending",
+      "Adrenaline Rush",
+      "Thought-Provoking"
+    ],
+    "streaming_providers": [
+      "Netflix",
+      "Prime Video",
+      "HBO Max"
+    ],
+    "language": "English"
+  },
+  {
+    "tmdb_id": 157336,
+    "title": "Interstellar",
+    "tagline": "Mankind was born on Earth. It was never meant to die here.",
+    "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+    "release_year": 2014,
+    "runtime": 169,
+    "poster_path": "https://image.tmdb.org/t/p/w500/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/w1280/5XNQBqnBwPA9yT0jZ0p3s8bbLh0.jpg",
+    "trailer_url": "https://www.youtube.com/embed/zSWdZVtXT7E",
+    "imdb_rating": 8.7,
+    "cineverse_score": 9.8,
+    "genres": [
+      "Sci-Fi",
+      "Drama",
+      "Adventure"
+    ],
+    "director": "Christopher Nolan",
+    "cast": [
+      "Matthew McConaughey",
+      "Anne Hathaway",
+      "Jessica Chastain",
+      "Michael Caine"
+    ],
+    "keywords": [
+      "wormhole",
+      "black hole",
+      "space exploration",
+      "time dilation",
+      "father daughter"
+    ],
+    "vibe_tags": [
+      "Mind-Bending",
+      "Thought-Provoking",
+      "Feel-Good"
+    ],
+    "streaming_providers": [
+      "Paramount+",
+      "Prime Video",
+      "Apple TV+"
+    ],
+    "language": "English"
+  },
+  {
+    "tmdb_id": 603,
+    "title": "The Matrix",
+    "tagline": "Welcome to the Real World.",
+    "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+    "release_year": 1999,
+    "runtime": 136,
+    "poster_path": "https://image.tmdb.org/t/p/w500/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/w1280/tlm8UkiQsitc8rSuIAscQDCnP8d.jpg",
+    "trailer_url": "https://www.youtube.com/embed/vKQi3bBA1y8",
+    "imdb_rating": 8.7,
+    "cineverse_score": 9.5,
+    "genres": [
+      "Sci-Fi",
+      "Action"
+    ],
+    "director": "Lana Wachowski, Lilly Wachowski",
+    "cast": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss",
+      "Hugo Weaving"
+    ],
+    "keywords": [
+      "simulation",
+      "hacker",
+      "cyberpunk",
+      "red pill",
+      "kung fu"
+    ],
+    "vibe_tags": [
+      "Cyberpunk",
+      "Mind-Bending",
+      "Adrenaline Rush"
+    ],
+    "streaming_providers": [
+      "HBO Max",
+      "Netflix"
+    ],
+    "language": "English"
+  },
+  {
+    "tmdb_id": 155,
+    "title": "The Dark Knight",
+    "tagline": "Welcome to a world without rules.",
+    "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets.",
+    "release_year": 2008,
+    "runtime": 152,
+    "poster_path": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/w1280/dqK9Hag1054tghRQSqLSfrkvQnA.jpg",
+    "trailer_url": "https://www.youtube.com/embed/EXeTwQWrcwY",
+    "imdb_rating": 9.0,
+    "cineverse_score": 9.9,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "director": "Christopher Nolan",
+    "cast": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Aaron Eckhart",
+      "Gary Oldman"
+    ],
+    "keywords": [
+      "joker",
+      "gotham",
+      "vigilante",
+      "chaos",
+      "hero"
+    ],
+    "vibe_tags": [
+      "Dark & Gritty",
+      "Adrenaline Rush",
+      "Thought-Provoking"
+    ],
+    "streaming_providers": [
+      "HBO Max",
+      "Prime Video"
+    ],
+    "language": "English"
+  },
+  {
+    "tmdb_id": 335984,
+    "title": "Blade Runner 2049",
+    "tagline": "The key to the future is finally unearthed.",
+    "overview": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos.",
+    "release_year": 2017,
+    "runtime": 164,
+    "poster_path": "https://image.tmdb.org/t/p/w500/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/w1280/gNdLJU9TxrpGx4dkZidjys3fyy0.jpg",
+    "trailer_url": "https://www.youtube.com/embed/gCcx85zbxz4",
+    "imdb_rating": 8.0,
+    "cineverse_score": 9.4,
+    "genres": [
+      "Sci-Fi",
+      "Mystery",
+      "Drama"
+    ],
+    "director": "Denis Villeneuve",
+    "cast": [
+      "Ryan Gosling",
+      "Harrison Ford",
+      "Ana de Armas",
+      "Sylvia Hoeks"
+    ],
+    "keywords": [
+      "android",
+      "dystopia",
+      "neon",
+      "hologram",
+      "identity"
+    ],
+    "vibe_tags": [
+      "Cyberpunk",
+      "Mind-Bending",
+      "Dark & Gritty"
+    ],
+    "streaming_providers": [
+      "Hulu",
+      "Prime Video"
+    ],
+    "language": "English"
+  },
+  {
+    "tmdb_id": 872585,
+    "title": "Oppenheimer",
+    "tagline": "The world forever changes.",
+    "overview": "The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb during World War II.",
+    "release_year": 2023,
+    "runtime": 180,
+    "poster_path": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/w1280/neeNHeXjMF5fXoCJRsOmkNGC7q.jpg",
+    "trailer_url": "https://www.youtube.com/embed/uYPbbksJxIg",
+    "imdb_rating": 8.9,
+    "cineverse_score": 9.7,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Christopher Nolan",
+    "cast": [
+      "Cillian Murphy",
+      "Emily Blunt",
+      "Matt Damon",
+      "Robert Downey Jr."
+    ],
+    "keywords": [
+      "atomic bomb",
+      "Manhattan project",
+      "physics",
+      "WWII"
+    ],
+    "vibe_tags": [
+      "Thought-Provoking",
+      "Dark & Gritty"
+    ],
+    "streaming_providers": [
+      "Peacock",
+      "Prime Video"
+    ],
+    "language": "English"
+  },
+  {
+    "tmdb_id": 693134,
+    "title": "Dune: Part Two",
+    "tagline": "Long live the fighters.",
+    "overview": "Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family.",
+    "release_year": 2024,
+    "runtime": 166,
+    "poster_path": "https://image.tmdb.org/t/p/w500/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/w1280/eZ239CUp1d6OryZEBPnO2n87gMG.jpg",
+    "trailer_url": "https://www.youtube.com/embed/Way9Dexny3w",
+    "imdb_rating": 8.6,
+    "cineverse_score": 9.6,
+    "genres": [
+      "Sci-Fi",
+      "Adventure",
+      "Action"
+    ],
+    "director": "Denis Villeneuve",
+    "cast": [
+      "Timothée Chalamet",
+      "Zendaya",
+      "Rebecca Ferguson",
+      "Javier Bardem"
+    ],
+    "keywords": [
+      "desert",
+      "sandworm",
+      "prophecy",
+      "empire"
+    ],
+    "vibe_tags": [
+      "Adrenaline Rush",
+      "Mind-Bending"
+    ],
+    "streaming_providers": [
+      "HBO Max",
+      "Prime Video"
+    ],
+    "language": "English"
+  },
+  {
+    "tmdb_id": 569094,
+    "title": "Spider-Man: Across the Spider-Verse",
+    "tagline": "It's how you wear the mask that matters.",
+    "overview": "Miles Morales catapults across the Multiverse, where he encounters a team of Spider-People charged with protecting its very existence.",
+    "release_year": 2023,
+    "runtime": 140,
+    "poster_path": "https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/w1280/kVd3a9YeLGkoeR50jGEXM6EqseS.jpg",
+    "trailer_url": "https://www.youtube.com/embed/cqGjhVJWtEg",
+    "imdb_rating": 8.7,
+    "cineverse_score": 9.8,
+    "genres": [
+      "Animation",
+      "Action",
+      "Sci-Fi"
+    ],
+    "director": "Joaquim Dos Santos, Kemp Powers",
+    "cast": [
+      "Shameik Moore",
+      "Hailee Steinfeld",
+      "Oscar Isaac"
+    ],
+    "keywords": [
+      "multiverse",
+      "spider-man",
+      "canon event",
+      "animation"
+    ],
+    "vibe_tags": [
+      "Adrenaline Rush",
+      "Mind-Bending",
+      "Feel-Good"
+    ],
+    "streaming_providers": [
+      "Netflix"
+    ],
+    "language": "English"
+  },
+  {
+    "tmdb_id": 579974,
+    "title": "RRR",
+    "tagline": "Rise. Roar. Revolt.",
+    "overview": "A epic tale of two legendary revolutionaries and their journey away from home before they started fighting for their country in 1920s colonial India.",
+    "release_year": 2022,
+    "runtime": 187,
+    "poster_path": "https://image.tmdb.org/t/p/w500/u0XUBNQWlOvrh0Gd97ARGpIkL0.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/w1280/i0Y0wP8H6SRgjr6QmuwbtQbS24D.jpg",
+    "trailer_url": "https://www.youtube.com/embed/f_vbAtFSEc0",
+    "imdb_rating": 7.8,
+    "cineverse_score": 9.5,
+    "genres": [
+      "Bollywood",
+      "Action",
+      "Drama",
+      "Adventure"
+    ],
+    "director": "S.S. Rajamouli",
+    "cast": [
+      "N.T. Rama Rao Jr.",
+      "Ram Charan",
+      "Alia Bhatt",
+      "Ajay Devgn"
+    ],
+    "keywords": [
+      "revolution",
+      "brotherhood",
+      "epic action",
+      "naatu naatu",
+      "freedom fighters"
+    ],
+    "vibe_tags": [
+      "Adrenaline Rush",
+      "Feel-Good"
+    ],
+    "streaming_providers": [
+      "Netflix",
+      "ZEE5"
+    ],
+    "language": "Telugu"
+  },
+  {
+    "tmdb_id": 20453,
+    "title": "3 Idiots",
+    "tagline": "Don't chase success, chase excellence.",
+    "overview": "Two friends search for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently.",
+    "release_year": 2009,
+    "runtime": 170,
+    "poster_path": "https://image.tmdb.org/t/p/w500/66A9MqXOyVFCssoloscw79z8Tew.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/w1280/8gT3UKtglLVpu0YfccwbmXZ5Eis.jpg",
+    "trailer_url": "https://www.youtube.com/embed/K0eDlFX9GMc",
+    "imdb_rating": 8.4,
+    "cineverse_score": 9.7,
+    "genres": [
+      "Bollywood",
+      "Comedy",
+      "Drama"
+    ],
+    "director": "Rajkumar Hirani",
+    "cast": [
+      "Aamir Khan",
+      "R. Madhavan",
+      "Sharman Joshi",
+      "Kareena Kapoor"
+    ],
+    "keywords": [
+      "college",
+      "friendship",
+      "education",
+      "all is well"
+    ],
+    "vibe_tags": [
+      "Feel-Good",
+      "Thought-Provoking"
+    ],
+    "streaming_providers": [
+      "Prime Video"
+    ],
+    "language": "Hindi"
+  },
+  {
+    "tmdb_id": 360814,
+    "title": "Dangal",
+    "tagline": "A daughter's victory is a father's pride.",
+    "overview": "Former wrestler Mahavir Singh Phogat and his daughters Geeta and Babita struggle against social stigma to achieve victory at the Commonwealth Games.",
+    "release_year": 2016,
+    "runtime": 161,
+    "poster_path": "https://image.tmdb.org/t/p/w500/cJRPOLEexI7qp2DKtFfCh7YaaUG.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/w1280/l0fNAHLOFReQJsxCOmGWvJDnimn.jpg",
+    "trailer_url": "https://www.youtube.com/embed/x_7YlGv9u1g",
+    "imdb_rating": 8.4,
+    "cineverse_score": 9.6,
+    "genres": [
+      "Bollywood",
+      "Drama",
+      "Action"
+    ],
+    "director": "Nitesh Tiwari",
+    "cast": [
+      "Aamir Khan",
+      "Fatima Sana Shaikh",
+      "Sanya Malhotra",
+      "Sakshi Tanwar"
+    ],
+    "keywords": [
+      "wrestling",
+      "biography",
+      "father daughter",
+      "sports"
+    ],
+    "vibe_tags": [
+      "Feel-Good",
+      "Thought-Provoking",
+      "Adrenaline Rush"
+    ],
+    "streaming_providers": [
+      "Netflix"
+    ],
+    "language": "Hindi"
+  },
+  {
+    "tmdb_id": 864692,
+    "title": "Pathaan",
+    "tagline": "Apni kursi ki petiyān bāndh lo.",
+    "overview": "An Indian secret agent races against time to stop a mercenary group from launching a deadly biological attack against India.",
+    "release_year": 2023,
+    "runtime": 146,
+    "poster_path": "https://image.tmdb.org/t/p/w500/arf00BkwvXo0CFKbaD9OpqdE4Nu.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/w1280/9wRAIQeOv2qzcgpfvA4dYZKeezl.jpg",
+    "trailer_url": "https://www.youtube.com/embed/vqu4z34wENw",
+    "imdb_rating": 7.0,
+    "cineverse_score": 9.0,
+    "genres": [
+      "Bollywood",
+      "Action",
+      "Thriller"
+    ],
+    "director": "Siddharth Anand",
+    "cast": [
+      "Shah Rukh Khan",
+      "Deepika Padukone",
+      "John Abraham",
+      "Salman Khan"
+    ],
+    "keywords": [
+      "spy universe",
+      "agent",
+      "action",
+      "srk"
+    ],
+    "vibe_tags": [
+      "Adrenaline Rush"
+    ],
+    "streaming_providers": [
+      "Prime Video"
+    ],
+    "language": "Hindi"
+  },
+  {
+    "tmdb_id": 872906,
+    "title": "Jawan",
+    "tagline": "Ready or not, here he comes.",
+    "overview": "A driven jailer recruits a group of women inmates to execute high-stakes vigilantism seeking justice for the oppressed.",
+    "release_year": 2023,
+    "runtime": 169,
+    "poster_path": "https://image.tmdb.org/t/p/w500/jFt1gS4BGHlK8xt76Y81Alp4dbt.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/w1280/5LtSjMNw6j3LkG29Oa4O0iY5U8.jpg",
+    "trailer_url": "https://www.youtube.com/embed/COv52Qyctws",
+    "imdb_rating": 7.5,
+    "cineverse_score": 9.2,
+    "genres": [
+      "Bollywood",
+      "Action",
+      "Thriller"
+    ],
+    "director": "Atlee",
+    "cast": [
+      "Shah Rukh Khan",
+      "Nayanthara",
+      "Vijay Sethupathi",
+      "Deepika Padukone"
+    ],
+    "keywords": [
+      "vigilante",
+      "father son",
+      "social justice",
+      "srk"
+    ],
+    "vibe_tags": [
+      "Adrenaline Rush",
+      "Thought-Provoking"
+    ],
+    "streaming_providers": [
+      "Netflix"
+    ],
+    "language": "Hindi"
+  },
+  {
+    "tmdb_id": 15774,
+    "title": "Swades",
+    "tagline": "We, the people.",
+    "overview": "A successful Indian scientist working at NASA returns to a remote Indian village to find his childhood nanny, discovering his true roots along the way.",
+    "release_year": 2004,
+    "runtime": 189,
+    "poster_path": "https://image.tmdb.org/t/p/w500/yUSL24kpHc9Nls4Pohia4shgcIM.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/w1280/AmRfsOyEXpVhnaYXZMoDlZd9Siq.jpg",
+    "trailer_url": "https://www.youtube.com/embed/NC7GuooL_hU",
+    "imdb_rating": 8.2,
+    "cineverse_score": 9.5,
+    "genres": [
+      "Bollywood",
+      "Drama"
+    ],
+    "director": "Ashutosh Gowariker",
+    "cast": [
+      "Shah Rukh Khan",
+      "Gayatri Joshi",
+      "Kishori Ballal"
+    ],
+    "keywords": [
+      "nasa",
+      "village",
+      "electricity",
+      "patriotism"
+    ],
+    "vibe_tags": [
+      "Feel-Good",
+      "Thought-Provoking"
+    ],
+    "streaming_providers": [
+      "Netflix"
+    ],
+    "language": "Hindi"
+  },
+  {
+    "tmdb_id": 19404,
+    "title": "Dilwale Dulhania Le Jayenge",
+    "tagline": "Come... fall in love.",
+    "overview": "Raj and Simran meet on a trip through Europe and fall in love. When Raj learns Simran is arranged to marry someone else, he travels to India to win over her family.",
+    "release_year": 1995,
+    "runtime": 189,
+    "poster_path": "https://image.tmdb.org/t/p/w500/tFbfCkS7q6g96wVoAu8kyr93iPm.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/w1280/84beTJf26mfhoasUlKSOiNSutyS.jpg",
+    "trailer_url": "https://www.youtube.com/embed/cmax1-i73OY",
+    "imdb_rating": 8.0,
+    "cineverse_score": 9.4,
+    "genres": [
+      "Bollywood",
+      "Romance",
+      "Drama"
+    ],
+    "director": "Aditya Chopra",
+    "cast": [
+      "Shah Rukh Khan",
+      "Kajol",
+      "Amrish Puri",
+      "Anupam Kher"
+    ],
+    "keywords": [
+      "europe",
+      "mustard field",
+      "love story",
+      "ddlj"
+    ],
+    "vibe_tags": [
+      "Feel-Good"
+    ],
+    "streaming_providers": [
+      "Prime Video"
+    ],
+    "language": "Hindi"
+  },
+  {
+    "tmdb_id": 117691,
+    "title": "Gangs of Wasseypur",
+    "tagline": "Real story of coal mafia.",
+    "overview": "A clash between Sultan and Shahid Khan leads to the expulsion of Khan from Wasseypur, igniting a deadly multi-generational blood feud.",
+    "release_year": 2012,
+    "runtime": 320,
+    "poster_path": "https://image.tmdb.org/t/p/w500/4nbvLoPDftqXV14w5Mv14iqgVrt.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/w1280/eByyqLrrdYySwYjus5RVCgbCNOD.jpg",
+    "trailer_url": "https://www.youtube.com/embed/j-AkV1wL-1E",
+    "imdb_rating": 8.2,
+    "cineverse_score": 9.5,
+    "genres": [
+      "Bollywood",
+      "Crime",
+      "Action",
+      "Drama"
+    ],
+    "director": "Anurag Kashyap",
+    "cast": [
+      "Manoj Bajpayee",
+      "Nawazuddin Siddiqui",
+      "Richa Chadha",
+      "Pankaj Tripathi"
+    ],
+    "keywords": [
+      "coal mafia",
+      "revenge",
+      "wasseypur",
+      "cult classic"
+    ],
+    "vibe_tags": [
+      "Dark & Gritty",
+      "Mind-Bending"
+    ],
+    "streaming_providers": [
+      "Netflix",
+      "JioCinema"
+    ],
+    "language": "Hindi"
+  },
+  {
+    "tmdb_id": 496243,
+    "title": "Parasite",
+    "tagline": "Act like you own the place.",
+    "overview": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy Parks until they get entangled in an unexpected incident.",
+    "release_year": 2019,
+    "runtime": 132,
+    "poster_path": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/w1280/vbC0rzdrb7Ohc2TkbEbxtOABECe.jpg",
+    "trailer_url": "https://www.youtube.com/embed/5xH0HfJHsaY",
+    "imdb_rating": 8.5,
+    "cineverse_score": 9.6,
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Comedy"
+    ],
+    "director": "Bong Joon-ho",
+    "cast": [
+      "Song Kang-ho",
+      "Lee Sun-kyun",
+      "Cho Yeo-jeong"
+    ],
+    "keywords": [
+      "class struggle",
+      "basement",
+      "deception",
+      "oscar winner"
+    ],
+    "vibe_tags": [
+      "Thought-Provoking",
+      "Dark & Gritty",
+      "Mind-Bending"
+    ],
+    "streaming_providers": [
+      "Hulu",
+      "HBO Max"
+    ],
+    "language": "Korean"
+  },
+  {
+    "tmdb_id": 680,
+    "title": "Pulp Fiction",
+    "tagline": "Just because you are a character doesn't mean that you have character.",
+    "overview": "A burger-loving hitman, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer intersect in four tales of violence and redemption.",
+    "release_year": 1994,
+    "runtime": 154,
+    "poster_path": "https://image.tmdb.org/t/p/w500/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/w1280/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+    "trailer_url": "https://www.youtube.com/embed/tGpTpVyI_OQ",
+    "imdb_rating": 8.9,
+    "cineverse_score": 9.7,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "director": "Quentin Tarantino",
+    "cast": [
+      "John Travolta",
+      "Samuel L. Jackson",
+      "Uma Thurman",
+      "Bruce Willis"
+    ],
+    "keywords": [
+      "hitman",
+      "briefcase",
+      "nonlinear",
+      "dance contest"
+    ],
+    "vibe_tags": [
+      "Dark & Gritty",
+      "Mind-Bending"
+    ],
+    "streaming_providers": [
+      "Max",
+      "Prime Video"
+    ],
+    "language": "English"
+  },
+  {
+    "tmdb_id": 278,
+    "title": "The Shawshank Redemption",
+    "tagline": "Fear can hold you prisoner. Hope can set you free.",
+    "overview": "Framed in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison.",
+    "release_year": 1994,
+    "runtime": 142,
+    "poster_path": "https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/w1280/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg",
+    "trailer_url": "https://www.youtube.com/embed/PLl99DlL6b4",
+    "imdb_rating": 9.3,
+    "cineverse_score": 9.9,
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "director": "Frank Darabont",
+    "cast": [
+      "Tim Robbins",
+      "Morgan Freeman",
+      "Bob Gunton"
+    ],
+    "keywords": [
+      "prison",
+      "escape",
+      "friendship",
+      "hope"
+    ],
+    "vibe_tags": [
+      "Thought-Provoking",
+      "Feel-Good"
+    ],
+    "streaming_providers": [
+      "HBO Max",
+      "Prime Video"
+    ],
+    "language": "English"
+  },
+  {
+    "tmdb_id": 238,
+    "title": "The Godfather",
+    "tagline": "An offer you can't refuse.",
+    "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family.",
+    "release_year": 1972,
+    "runtime": 175,
+    "poster_path": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/w1280/tSPT36ZKlP2WVHJLM4cQPLSzv3b.jpg",
+    "trailer_url": "https://www.youtube.com/embed/Ew9ngL1GZvs",
+    "imdb_rating": 9.2,
+    "cineverse_score": 9.9,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "director": "Francis Ford Coppola",
+    "cast": [
+      "Marlon Brando",
+      "Al Pacino",
+      "James Caan",
+      "Robert Duvall"
+    ],
+    "keywords": [
+      "mafia",
+      "family",
+      "godfather",
+      "crime empire"
+    ],
+    "vibe_tags": [
+      "Dark & Gritty",
+      "Thought-Provoking"
+    ],
+    "streaming_providers": [
+      "Paramount+",
+      "Prime Video"
+    ],
+    "language": "English"
+  },
+  {
+    "tmdb_id": 244786,
+    "title": "Whiplash",
+    "tagline": "The road to greatness can push you to the edge.",
+    "overview": "Under the direction of a ruthless instructor, a talented young drummer will stop at nothing to achieve greatness.",
+    "release_year": 2014,
+    "runtime": 107,
+    "poster_path": "https://image.tmdb.org/t/p/w500/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/w1280/wbQa0EnWUyRzQ5d1pHLNRlmsCUP.jpg",
+    "trailer_url": "https://www.youtube.com/embed/Q7kZy3T6vRM",
+    "imdb_rating": 8.5,
+    "cineverse_score": 9.5,
+    "genres": [
+      "Drama"
+    ],
+    "director": "Damien Chazelle",
+    "cast": [
+      "Miles Teller",
+      "J.K. Simmons",
+      "Paul Reiser"
+    ],
+    "keywords": [
+      "jazz",
+      "drummer",
+      "obsession",
+      "perfection"
+    ],
+    "vibe_tags": [
+      "Adrenaline Rush",
+      "Thought-Provoking"
+    ],
+    "streaming_providers": [
+      "Hulu",
+      "Prime Video"
+    ],
+    "language": "English"
+  },
+  {
+    "tmdb_id": 313369,
+    "title": "La La Land",
+    "tagline": "Here's to the fools who dream.",
+    "overview": "While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future.",
+    "release_year": 2016,
+    "runtime": 128,
+    "poster_path": "https://image.tmdb.org/t/p/w500/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/w1280/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg",
+    "trailer_url": "https://www.youtube.com/embed/_oBwwSXdO_E",
+    "imdb_rating": 8.0,
+    "cineverse_score": 9.2,
+    "genres": [
+      "Romance",
+      "Drama",
+      "Comedy"
+    ],
+    "director": "Damien Chazelle",
+    "cast": [
+      "Ryan Gosling",
+      "Emma Stone",
+      "John Legend"
+    ],
+    "keywords": [
+      "hollywood",
+      "jazz",
+      "musical",
+      "love story"
+    ],
+    "vibe_tags": [
+      "Feel-Good",
+      "Thought-Provoking"
+    ],
+    "streaming_providers": [
+      "Netflix",
+      "Hulu"
+    ],
+    "language": "English"
+  },
+  {
+    "tmdb_id": 372058,
+    "title": "Your Name (Kimi no Na wa)",
+    "tagline": "I am looking for you, whom I have never met.",
+    "overview": "High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places in their dreams.",
+    "release_year": 2016,
+    "runtime": 106,
+    "poster_path": "https://image.tmdb.org/t/p/w500/q719jXXEzOoYaps6babgKnONONX.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/w1280/8x9iKH8kWA0zdkgNdpAew7OstYe.jpg",
+    "trailer_url": "https://www.youtube.com/embed/RuyHIkXdYf8",
+    "imdb_rating": 8.4,
+    "cineverse_score": 9.7,
+    "genres": [
+      "Animation",
+      "Romance",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "director": "Makoto Shinkai",
+    "cast": [
+      "Ryunosuke Kamiki",
+      "Mone Kamishibai",
+      "Ryo Narita"
+    ],
+    "keywords": [
+      "body swap",
+      "comet",
+      "tokyo",
+      "destiny"
+    ],
+    "vibe_tags": [
+      "Feel-Good",
+      "Mind-Bending",
+      "Thought-Provoking"
+    ],
+    "streaming_providers": [
+      "Crunchyroll",
+      "Prime Video"
+    ],
+    "language": "Japanese"
+  },
+  {
+    "tmdb_id": 129,
+    "title": "Spirited Away",
+    "tagline": "The tunnel led to a world beyond imagination.",
+    "overview": "A 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
+    "release_year": 2001,
+    "runtime": 125,
+    "poster_path": "https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/w1280/dyJvKsNs2KP8qQnAXbRwDjblViy.jpg",
+    "trailer_url": "https://www.youtube.com/embed/GAp2_0JJskk",
+    "imdb_rating": 8.6,
+    "cineverse_score": 9.7,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Drama"
+    ],
+    "director": "Hayao Miyazaki",
+    "cast": [
+      "Rumi Hiiragi",
+      "Miyu Irano",
+      "Mari Natsuki"
+    ],
+    "keywords": [
+      "spirits",
+      "bathhouse",
+      "dragon",
+      "ghibli",
+      "magic"
+    ],
+    "vibe_tags": [
+      "Feel-Good",
+      "Thought-Provoking"
+    ],
+    "streaming_providers": [
+      "HBO Max",
+      "Netflix"
+    ],
+    "language": "Japanese"
+  },
+  {
+    "tmdb_id": 550,
+    "title": "Fight Club",
+    "tagline": "Mischief. Mayhem. Soap.",
+    "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel raw male aggression into a shocking new form of underground fight clubs.",
+    "release_year": 1999,
+    "runtime": 139,
+    "poster_path": "https://image.tmdb.org/t/p/w500/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/w1280/c6OLXfKAk5BKeR6broC8pYiCquX.jpg",
+    "trailer_url": "https://www.youtube.com/embed/dfeUzm6KF4g",
+    "imdb_rating": 8.8,
+    "cineverse_score": 9.5,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "director": "David Fincher",
+    "cast": [
+      "Brad Pitt",
+      "Edward Norton",
+      "Helena Bonham Carter"
+    ],
+    "keywords": [
+      "insomnia",
+      "soap",
+      "anarchy",
+      "tyler durden",
+      "alter ego"
+    ],
+    "vibe_tags": [
+      "Mind-Bending",
+      "Dark & Gritty"
+    ],
+    "streaming_providers": [
+      "Hulu",
+      "Prime Video"
+    ],
+    "language": "English"
+  },
+  {
+    "tmdb_id": 350312,
+    "title": "Bāhubali 2: The Conclusion",
+    "poster_path": "https://image.tmdb.org/t/p/w500/21sC2assImQIYCEDA84Qh9d1RsK.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/w1280/whNjsTOUVg2lZLCKgGhnACnmV8E.jpg",
+    "trailer_url": "https://www.youtube.com/embed/qD-6d8Wo3do",
+    "overview": "When Mahendra, the son of Bāhubali, learns about his heritage, he begins to look for answers. His story is juxtaposed with past events that unfolded in the Mahishmati Kingdom.",
+    "release_year": 2017,
+    "imdb_rating": 7.5,
+    "cineverse_score": 8.4,
+    "tagline": "How did Kattappa kill Baahubali?",
+    "runtime": 167,
+    "genres": [
+      "Bollywood",
+      "Action",
+      "Drama",
+      "Adventure"
+    ],
+    "director": "S.S. Rajamouli",
+    "cast": [
+      "Prabhas",
+      "Rana Daggubati",
+      "Anushka Shetty",
+      "Tamannaah Bhatia"
+    ],
+    "keywords": [
+      "epic",
+      "kingdom",
+      "revenge",
+      "warrior"
+    ],
+    "vibe_tags": [
+      "Adrenaline Rush",
+      "Feel-Good"
+    ],
+    "streaming_providers": [
+      "Netflix",
+      "Prime Video"
+    ],
+    "language": "Telugu"
+  },
+  {
+    "tmdb_id": 587412,
+    "title": "K.G.F: Chapter 2",
+    "poster_path": "https://image.tmdb.org/t/p/w500/khNVygolU0TxLIDWff5tQlAhZ23.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/w1280/nsV5Mfi9FAV4w8eDsdr7uqVswOk.jpg",
+    "trailer_url": "https://www.youtube.com/embed/Qah9sSIXJqk",
+    "overview": "The blood-soaked land of Kolar Gold Fields (KGF) has a new overlord now - Rocky, whose name strikes fear in the heart of his foes. His allies look up to Rocky as their Savior, the government sees him as a threat to law and order; enemies are clamoring for revenge and conspiring for his downfall. Bloodier battles and darker days await as Rocky continues on his quest for unchallenged supremacy.",
+    "release_year": 2022,
+    "imdb_rating": 7.4,
+    "cineverse_score": 8.3,
+    "tagline": "The chapter of violence, blood, and gold.",
+    "runtime": 168,
+    "genres": [
+      "Bollywood",
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "director": "Prashanth Neel",
+    "cast": [
+      "Yash",
+      "Sanjay Dutt",
+      "Raveena Tandon",
+      "Srinidhi Shetty"
+    ],
+    "keywords": [
+      "gold mine",
+      "gangster",
+      "rise to power"
+    ],
+    "vibe_tags": [
+      "Adrenaline Rush",
+      "Dark & Gritty"
+    ],
+    "streaming_providers": [
+      "Prime Video",
+      "ZEE5"
+    ],
+    "language": "Kannada"
+  },
+  {
+    "tmdb_id": 12259,
+    "title": "Sholay",
+    "poster_path": "https://image.tmdb.org/t/p/w500/ya9bwgqA4eNl5bQ9QqS0jcmRoBS.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/w1280/8aYAfAPolsRFrHbP1rafeSgg2Ew.jpg",
+    "trailer_url": "https://www.youtube.com/embed/RDY97iu1_q8",
+    "overview": "After his family is slain by notorious bandit Gabbar Singh, former Inspector Thakur Baldev Singh enlists low-level outlaws Jai and Veeru to capture Gabbar and seek revenge.",
+    "release_year": 1975,
+    "imdb_rating": 7.0,
+    "cineverse_score": 7.9,
+    "tagline": "The greatest star cast ever assembled.",
+    "runtime": 204,
+    "genres": [
+      "Bollywood",
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "director": "Ramesh Sippy",
+    "cast": [
+      "Dharmendra",
+      "Amitabh Bachchan",
+      "Hema Malini",
+      "Amjad Khan"
+    ],
+    "keywords": [
+      "dacoit",
+      "friendship",
+      "revenge",
+      "classic"
+    ],
+    "vibe_tags": [
+      "Adrenaline Rush",
+      "Feel-Good"
+    ],
+    "streaming_providers": [
+      "Prime Video"
+    ],
+    "language": "Hindi"
+  },
+  {
+    "tmdb_id": 98,
+    "title": "Gladiator",
+    "poster_path": "https://image.tmdb.org/t/p/w500/wN2xWp1eIwCKOD0BHTcErTBv1Uq.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/w1280/jhk6D8pim3yaByu1801kMoxXFaX.jpg",
+    "trailer_url": "https://www.youtube.com/embed/P5ieIbInFpg",
+    "overview": "After the death of Emperor Marcus Aurelius, his devious son takes power and demotes Maximus, one of Rome's most capable generals who Marcus preferred. Eventually, Maximus is forced to become a gladiator and battle to the death against other men for the amusement of paying audiences.",
+    "release_year": 2000,
+    "imdb_rating": 8.2,
+    "cineverse_score": 9.1,
+    "tagline": "A general who became a slave. A slave who became a gladiator.",
+    "runtime": 155,
+    "genres": [
+      "Action",
+      "Drama",
+      "Adventure"
+    ],
+    "director": "Ridley Scott",
+    "cast": [
+      "Russell Crowe",
+      "Joaquin Phoenix",
+      "Connie Nielsen"
+    ],
+    "keywords": [
+      "rome",
+      "arena",
+      "revenge",
+      "empire"
+    ],
+    "vibe_tags": [
+      "Adrenaline Rush",
+      "Dark & Gritty"
+    ],
+    "streaming_providers": [
+      "Paramount+",
+      "Prime Video"
+    ],
+    "language": "English"
+  },
+  {
+    "tmdb_id": 578,
+    "title": "Jaws",
+    "poster_path": "https://image.tmdb.org/t/p/w500/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/w1280/i1yf91svRHX45l9BXL8rVFzLoPH.jpg",
+    "trailer_url": "https://www.youtube.com/embed/N9hzLQUGr34",
+    "overview": "When the seaside community of Amity finds itself under attack by a dangerous great white shark, the town's chief of police, a young marine biologist, and a grizzled shark hunter embark on a desperate quest to kill the beast before it strikes again.",
+    "release_year": 1975,
+    "imdb_rating": 7.7,
+    "cineverse_score": 8.6,
+    "tagline": "Don't go in the water.",
+    "runtime": 124,
+    "genres": [
+      "Thriller",
+      "Horror",
+      "Adventure"
+    ],
+    "director": "Steven Spielberg",
+    "cast": [
+      "Roy Scheider",
+      "Robert Shaw",
+      "Richard Dreyfuss"
+    ],
+    "keywords": [
+      "shark",
+      "beach town",
+      "survival"
+    ],
+    "vibe_tags": [
+      "Dark & Gritty",
+      "Adrenaline Rush"
+    ],
+    "streaming_providers": [
+      "Peacock"
+    ],
+    "language": "English"
+  },
+  {
+    "tmdb_id": 76600,
+    "title": "Avatar: The Way of Water",
+    "poster_path": "https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/w1280/kJsPVzdyBrYHLomuNv5SJDXUQ2f.jpg",
+    "trailer_url": "https://www.youtube.com/embed/VflTF8XFNgA",
+    "overview": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+    "release_year": 2022,
+    "imdb_rating": 7.6,
+    "cineverse_score": 8.5,
+    "tagline": "Return to Pandora.",
+    "runtime": 192,
+    "genres": [
+      "Sci-Fi",
+      "Adventure",
+      "Action"
+    ],
+    "director": "James Cameron",
+    "cast": [
+      "Sam Worthington",
+      "Zoe Saldaña",
+      "Sigourney Weaver"
+    ],
+    "keywords": [
+      "pandora",
+      "ocean",
+      "family",
+      "na'vi"
+    ],
+    "vibe_tags": [
+      "Feel-Good",
+      "Thought-Provoking"
+    ],
+    "streaming_providers": [
+      "Disney+"
+    ],
+    "language": "English"
+  },
+  {
+    "tmdb_id": 361743,
+    "title": "Top Gun: Maverick",
+    "poster_path": "https://image.tmdb.org/t/p/w500/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/w1280/AaV1YIdWKnjAIAOe8UUKBFm327v.jpg",
+    "trailer_url": "https://www.youtube.com/embed/Klc__shdj88",
+    "overview": "After more than thirty years of service as one of the Navy’s top aviators, and dodging the advancement in rank that would ground him, Pete “Maverick” Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
+    "release_year": 2022,
+    "imdb_rating": 8.2,
+    "cineverse_score": 9.1,
+    "tagline": "Feel the need... The need for speed.",
+    "runtime": 130,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "director": "Joseph Kosinski",
+    "cast": [
+      "Tom Cruise",
+      "Miles Teller",
+      "Jennifer Connelly"
+    ],
+    "keywords": [
+      "fighter pilot",
+      "mission",
+      "legacy"
+    ],
+    "vibe_tags": [
+      "Adrenaline Rush",
+      "Feel-Good"
+    ],
+    "streaming_providers": [
+      "Paramount+"
+    ],
+    "language": "English"
+  },
+  {
+    "tmdb_id": 354912,
+    "title": "Coco",
+    "poster_path": "https://image.tmdb.org/t/p/w500/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/w1280/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg",
+    "trailer_url": "https://www.youtube.com/embed/Rvr68u6k5sI",
+    "overview": "Despite his family’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
+    "release_year": 2017,
+    "imdb_rating": 8.2,
+    "cineverse_score": 9.1,
+    "tagline": "The celebration of a lifetime.",
+    "runtime": 105,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "director": "Lee Unkrich, Adrian Molina",
+    "cast": [
+      "Anthony Gonzalez",
+      "Gael García Bernal",
+      "Benjamin Bratt"
+    ],
+    "keywords": [
+      "day of the dead",
+      "family",
+      "music",
+      "afterlife"
+    ],
+    "vibe_tags": [
+      "Feel-Good",
+      "Thought-Provoking"
+    ],
+    "streaming_providers": [
+      "Disney+"
+    ],
+    "language": "English"
+  },
+  {
+    "tmdb_id": 76341,
+    "title": "Mad Max: Fury Road",
+    "poster_path": "https://image.tmdb.org/t/p/w500/ulcAi4dKpAjHwYGS08vNyx9H6I9.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/w1280/uT895WNwm0aIJRtGizcQhrejWUo.jpg",
+    "trailer_url": "https://www.youtube.com/embed/aXlfsF_lb0Y",
+    "overview": "An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order.",
+    "release_year": 2015,
+    "imdb_rating": 7.6,
+    "cineverse_score": 8.5,
+    "tagline": "What a lovely day.",
+    "runtime": 120,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "director": "George Miller",
+    "cast": [
+      "Tom Hardy",
+      "Charlize Theron",
+      "Nicholas Hoult"
+    ],
+    "keywords": [
+      "wasteland",
+      "chase",
+      "survival",
+      "dystopia"
+    ],
+    "vibe_tags": [
+      "Adrenaline Rush",
+      "Cyberpunk"
+    ],
+    "streaming_providers": [
+      "Max",
+      "Prime Video"
+    ],
+    "language": "English"
+  },
+  {
+    "tmdb_id": 1124,
+    "title": "The Prestige",
+    "poster_path": "https://image.tmdb.org/t/p/w500/Ag2B2KHKQPukjH7WutmgnnSNurZ.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/w1280/z3br1ub7spqGMkxgjgJSdM4DC21.jpg",
+    "trailer_url": "https://www.youtube.com/embed/ObGVA1WOqyE",
+    "overview": "A mysterious story of two magicians whose intense rivalry leads them on a life-long battle for supremacy -- full of obsession, deceit and jealousy with dangerous and deadly consequences.",
+    "release_year": 2006,
+    "imdb_rating": 8.2,
+    "cineverse_score": 9.1,
+    "tagline": "Are you watching closely?",
+    "runtime": 130,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "director": "Christopher Nolan",
+    "cast": [
+      "Hugh Jackman",
+      "Christian Bale",
+      "Michael Caine",
+      "Scarlett Johansson"
+    ],
+    "keywords": [
+      "magic",
+      "rivalry",
+      "obsession",
+      "twist"
+    ],
+    "vibe_tags": [
+      "Mind-Bending",
+      "Thought-Provoking"
+    ],
+    "streaming_providers": [
+      "Hulu",
+      "Prime Video"
+    ],
+    "language": "English"
+  },
+  {
+    "tmdb_id": 329865,
+    "title": "Arrival",
+    "poster_path": "https://image.tmdb.org/t/p/w500/x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/w1280/8MUZz7oPXQftFTslZpRP3CVMOoq.jpg",
+    "trailer_url": "https://www.youtube.com/embed/7W1m5ER3I1Y",
+    "overview": "Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.",
+    "release_year": 2016,
+    "imdb_rating": 7.6,
+    "cineverse_score": 8.5,
+    "tagline": "Why are they here?",
+    "runtime": 116,
+    "genres": [
+      "Sci-Fi",
+      "Drama",
+      "Mystery"
+    ],
+    "director": "Denis Villeneuve",
+    "cast": [
+      "Amy Adams",
+      "Jeremy Renner",
+      "Forest Whitaker"
+    ],
+    "keywords": [
+      "aliens",
+      "linguistics",
+      "time",
+      "first contact"
+    ],
+    "vibe_tags": [
+      "Mind-Bending",
+      "Thought-Provoking"
+    ],
+    "streaming_providers": [
+      "Paramount+"
+    ],
+    "language": "English"
+  },
+  {
+    "tmdb_id": 11324,
+    "title": "Shutter Island",
+    "poster_path": "https://image.tmdb.org/t/p/w500/nrmXQ0zcZUL8jFLrakWc90IR8z9.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/w1280/rbZvGN1A1QyZuoKzhCw8QPmf2q0.jpg",
+    "trailer_url": "https://www.youtube.com/embed/qdPw9x9h5CY",
+    "overview": "World War II soldier-turned-U.S. Marshal Teddy Daniels investigates the disappearance of a patient from a hospital for the criminally insane, but his efforts are compromised by troubling visions and a mysterious doctor.",
+    "release_year": 2010,
+    "imdb_rating": 8.2,
+    "cineverse_score": 9.1,
+    "tagline": "Someone is missing.",
+    "runtime": 138,
+    "genres": [
+      "Thriller",
+      "Mystery",
+      "Drama"
+    ],
+    "director": "Martin Scorsese",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Mark Ruffalo",
+      "Ben Kingsley"
+    ],
+    "keywords": [
+      "asylum",
+      "conspiracy",
+      "twist",
+      "detective"
+    ],
+    "vibe_tags": [
+      "Mind-Bending",
+      "Dark & Gritty"
+    ],
+    "streaming_providers": [
+      "Netflix"
+    ],
+    "language": "English"
+  },
+  {
+    "tmdb_id": 807,
+    "title": "Se7en",
+    "poster_path": "https://image.tmdb.org/t/p/w500/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/w1280/i5H7zusQGsysGQ8i6P361Vnr0n2.jpg",
+    "trailer_url": "https://www.youtube.com/embed/KPOuJGkpblk",
+    "overview": "Two homicide detectives are on a desperate hunt for a serial killer whose crimes are based on the \"seven deadly sins\" in this dark and haunting film that takes viewers from the tortured remains of one victim to the next. The seasoned Det. Somerset researches each sin in an effort to get inside the killer's mind, while his novice partner, Mills, scoffs at his efforts to unravel the case.",
+    "release_year": 1995,
+    "imdb_rating": 8.4,
+    "cineverse_score": 9.3,
+    "tagline": "Seven deadly sins. Seven ways to die.",
+    "runtime": 127,
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Mystery"
+    ],
+    "director": "David Fincher",
+    "cast": [
+      "Brad Pitt",
+      "Morgan Freeman",
+      "Kevin Spacey",
+      "Gwyneth Paltrow"
+    ],
+    "keywords": [
+      "serial killer",
+      "detective",
+      "sin",
+      "twist ending"
+    ],
+    "vibe_tags": [
+      "Dark & Gritty",
+      "Thought-Provoking"
+    ],
+    "streaming_providers": [
+      "Netflix"
+    ],
+    "language": "English"
+  },
+  {
+    "tmdb_id": 274,
+    "title": "The Silence of the Lambs",
+    "poster_path": "https://image.tmdb.org/t/p/w500/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/w1280/aYcnDyLMnpKce1FOYUpZrXtgUye.jpg",
+    "trailer_url": "https://www.youtube.com/embed/BZIsoqmrBqw",
+    "overview": "Clarice Starling is a top student at the FBI's training academy.  Jack Crawford wants Clarice to interview Dr. Hannibal Lecter, a brilliant psychiatrist who is also a violent psychopath, serving life behind bars for various acts of murder and cannibalism.  Crawford believes that Lecter may have insight into a case and that Starling, as an attractive young woman, may be just the bait to draw him out.",
+    "release_year": 1991,
+    "imdb_rating": 8.3,
+    "cineverse_score": 9.2,
+    "tagline": "To enter the mind of a killer she must challenge the mind of a madman.",
+    "runtime": 118,
+    "genres": [
+      "Thriller",
+      "Crime",
+      "Horror"
+    ],
+    "director": "Jonathan Demme",
+    "cast": [
+      "Jodie Foster",
+      "Anthony Hopkins",
+      "Scott Glenn"
+    ],
+    "keywords": [
+      "fbi",
+      "serial killer",
+      "profiler",
+      "cannibal"
+    ],
+    "vibe_tags": [
+      "Dark & Gritty",
+      "Mind-Bending"
+    ],
+    "streaming_providers": [
+      "Max"
+    ],
+    "language": "English"
+  },
+  {
+    "tmdb_id": 6977,
+    "title": "No Country for Old Men",
+    "poster_path": "https://image.tmdb.org/t/p/w500/6d5XOczc226jECq0LIX0siKtgHR.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/w1280/gddUsvfyySrM5k8B8wwJy2VRlBx.jpg",
+    "trailer_url": "https://www.youtube.com/embed/A0oNrgumrlE",
+    "overview": "Llewelyn Moss stumbles upon dead bodies, $2 million and a hoard of heroin in a Texas desert, but methodical killer Anton Chigurh comes looking for it, with local sheriff Ed Tom Bell hot on his trail. The roles of prey and predator blur as the violent pursuit of money and justice collide.",
+    "release_year": 2007,
+    "imdb_rating": 7.9,
+    "cineverse_score": 8.8,
+    "tagline": "There are no clean getaways.",
+    "runtime": 122,
+    "genres": [
+      "Thriller",
+      "Crime",
+      "Drama"
+    ],
+    "director": "Joel Coen, Ethan Coen",
+    "cast": [
+      "Tommy Lee Jones",
+      "Javier Bardem",
+      "Josh Brolin"
+    ],
+    "keywords": [
+      "drug money",
+      "chase",
+      "fate",
+      "sheriff"
+    ],
+    "vibe_tags": [
+      "Dark & Gritty",
+      "Thought-Provoking"
+    ],
+    "streaming_providers": [
+      "Netflix",
+      "Prime Video"
+    ],
+    "language": "English"
+  },
+  {
+    "tmdb_id": 37165,
+    "title": "The Truman Show",
+    "poster_path": "https://image.tmdb.org/t/p/w500/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/w1280/aCHn2TXYJfzPXQKA6r9mKPbMlUB.jpg",
+    "trailer_url": "https://www.youtube.com/embed/N1VlDVRiFrk",
+    "overview": "In a picture-perfect seaside town, an insurance salesman begins to realize that his entire existence may be staged and observed by a vast unseen audience as part of a long-running real-time reality TV show.",
+    "release_year": 1998,
+    "imdb_rating": 8.2,
+    "cineverse_score": 9.1,
+    "tagline": "On the air. Unaware.",
+    "runtime": 103,
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "director": "Peter Weir",
+    "cast": [
+      "Jim Carrey",
+      "Ed Harris",
+      "Laura Linney"
+    ],
+    "keywords": [
+      "reality tv",
+      "simulated world",
+      "identity"
+    ],
+    "vibe_tags": [
+      "Thought-Provoking",
+      "Mind-Bending"
+    ],
+    "streaming_providers": [
+      "Prime Video",
+      "Paramount+"
+    ],
+    "language": "English"
+  },
+  {
+    "tmdb_id": 858485,
+    "title": "Kantara",
+    "poster_path": "https://image.tmdb.org/t/p/w500/jIsKmkxMzdCZ0Ux1GVSnu8m6Na6.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/w1280/kXElm7wt2kAXEVwJqW4cFhP43nW.jpg",
+    "trailer_url": null,
+    "overview": "Shiva, a tribal vagabond lives with his mother in hamlet, stays away from the traditional Daivaradhane and Bhoota Kola legacy due to an unforgettable childhood incident. He is happy loafing around with his friends and doing petty jobs for his landlord. When Forest officer Murali enters the scene, it gives a fresh dimension to the man-vs-nature fight. Can Shiva save the forest from Murali? Or is Murali just a dummy bait cast by bigger fish?",
+    "release_year": 2022,
+    "imdb_rating": 7.2,
+    "cineverse_score": 8.1,
+    "tagline": "A legend that unfolds itself.",
+    "runtime": 150,
+    "genres": [
+      "Bollywood",
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "director": "Rishab Shetty",
+    "cast": [
+      "Rishab Shetty",
+      "Sapthami Gowda",
+      "Kishore"
+    ],
+    "keywords": [
+      "folklore",
+      "forest",
+      "tradition",
+      "spirit"
+    ],
+    "vibe_tags": [
+      "Dark & Gritty",
+      "Thought-Provoking"
+    ],
+    "streaming_providers": [
+      "Prime Video"
+    ],
+    "language": "Kannada"
+  },
+  {
+    "tmdb_id": 496331,
+    "title": "Brahmāstra Part One: Shiva",
+    "poster_path": "https://image.tmdb.org/t/p/w500/x61qdvHIsr9U53FwoLVDQqAGur0.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/w1280/9oAqll65ytlOBLzZwUwkmo5RwIK.jpg",
+    "trailer_url": "https://www.youtube.com/embed/JwZRx6IGL_k",
+    "overview": "The story of Shiva – a young man on the brink of an epic love, with a girl named Isha. But their world is turned upside down when Shiva learns that he has a mysterious connection to the Brahmāstra... and a great power within him that he doesn’t understand just yet - the power of Fire.",
+    "release_year": 2022,
+    "imdb_rating": 6.3,
+    "cineverse_score": 7.2,
+    "tagline": "Divine astras, divine warrior.",
+    "runtime": 167,
+    "genres": [
+      "Bollywood",
+      "Fantasy",
+      "Action",
+      "Adventure"
+    ],
+    "director": "Ayan Mukerji",
+    "cast": [
+      "Ranbir Kapoor",
+      "Alia Bhatt",
+      "Amitabh Bachchan",
+      "Mouni Roy"
+    ],
+    "keywords": [
+      "mythology",
+      "fire",
+      "astraverse",
+      "love story"
+    ],
+    "vibe_tags": [
+      "Adrenaline Rush",
+      "Feel-Good"
+    ],
+    "streaming_providers": [
+      "Disney+ Hotstar"
+    ],
+    "language": "Hindi"
+  },
+  {
+    "tmdb_id": 19666,
+    "title": "Lagaan: Once Upon a Time in India",
+    "poster_path": "https://image.tmdb.org/t/p/w500/yNX9lFRAFeNLNRIXdqZK9gYrYKa.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/w1280/76VwduxQMkVXOUktps85dE0lLeP.jpg",
+    "trailer_url": "https://www.youtube.com/embed/rZPbpymefuE",
+    "overview": "The year is 1893 and India is under British occupation. In a small village, the tyrannical Captain Russell has imposed an unprecedented land tax on its citizens. Outraged, Bhuvan, a rebellious farmer, rallies the villagers to publicly oppose the tax. Russell offers a novel way to settle the dispute: he challenges Bhuvan and his men to a game of cricket, a sport completely foreign to India. If Bhuvan and his men can defeat Russell's team, the tax will be repealed.",
+    "release_year": 2001,
+    "imdb_rating": 7.3,
+    "cineverse_score": 8.2,
+    "tagline": "A story of victory that lives forever.",
+    "runtime": 224,
+    "genres": [
+      "Bollywood",
+      "Drama",
+      "Sport"
+    ],
+    "director": "Ashutosh Gowariker",
+    "cast": [
+      "Aamir Khan",
+      "Gracy Singh",
+      "Rachel Shelley"
+    ],
+    "keywords": [
+      "cricket",
+      "colonial india",
+      "village",
+      "tax"
+    ],
+    "vibe_tags": [
+      "Feel-Good",
+      "Thought-Provoking"
+    ],
+    "streaming_providers": [
+      "Netflix"
+    ],
+    "language": "Hindi"
+  }
+]

@@ -1,0 +1,206 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply transition-colors duration-300 bg-cineverse-dark text-slate-100;
+  }
+
+  html.light body {
+    background-color: #F8FAFC !important;
+    color: #0F172A !important;
+  }
+}
+
+/* Custom Glassmorphism Utility */
+.glass-panel {
+  background: rgba(19, 24, 38, 0.85);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+html.light .glass-panel {
+  background: rgba(255, 255, 255, 0.90);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(226, 232, 240, 0.9);
+  box-shadow: 0 10px 30px -5px rgba(0, 0, 0, 0.05);
+}
+
+/* ============================================================
+   Light Theme — Content Surfaces
+   ------------------------------------------------------------
+   Most components in this app were written with only dark-theme
+   Tailwind classes (e.g. `text-slate-400`, `bg-slate-900`) and no
+   `dark:` variant, on the assumption the app would always be dark.
+   Rather than hand-editing className strings across ~20 files, the
+   fix lives here as global attribute-selector overrides — with one
+   deliberate exception: `.media-overlay` (poster hover states, modal
+   backdrop banners, and video players) sits on top of a photo/video,
+   not the page surface, so it keeps its dark, high-contrast styling in
+   every theme, exactly like Netflix/Letterboxd poster art does.
+
+   These rules used to be scoped to `html.light .glass-panel [...]`,
+   which only fixed contrast for text/surfaces that happened to sit
+   inside a `.glass-panel` element — plenty of components (page headers,
+   filter bars, standalone rows) don't use that class and were getting
+   no light-mode treatment at all, which is the root cause of the
+   washed-out/low-contrast text. The rules below are unscoped (apply
+   anywhere under `html.light`) so coverage no longer depends on which
+   wrapper an element happens to sit in. `.media-overlay` rules are
+   declared AFTER these with equal-or-higher specificity, so they still
+   win the cascade for any element that also carries `.media-overlay`.
+   ============================================================ */
+
+html.light [class*="text-white"],
+html.light[class*="text-white"],
+html.light [class*="text-slate-100"],
+html.light [class*="text-slate-200"] {
+  color: #0F172A;
+}
+
+html.light [class*="text-slate-300"] {
+  color: #334155;
+}
+
+/* Was #64748B (~4.6:1 on white — barely clears WCAG AA and fails on any
+   tinted card background). #475569 keeps the same "muted secondary
+   text" role but sits at ~7.5:1, comfortably AA at any body-text size. */
+html.light [class*="text-slate-400"],
+html.light [class*="text-slate-500"] {
+  color: #475569;
+}
+
+html.light [class*="bg-slate-700"] {
+  background-color: #E2E8F0;
+}
+
+html.light [class*="bg-slate-900"],
+html.light[class*="bg-slate-900"],
+html.light [class*="bg-slate-800"],
+html.light[class*="bg-slate-800"],
+html.light [class*="bg-slate-950"],
+html.light[class*="bg-slate-950"] {
+  background-color: #F1F5F9;
+}
+
+html.light [class*="border-slate-700"],
+html.light [class*="border-slate-800"],
+html.light[class*="border-slate-800"],
+html.light [class*="border-slate-900"] {
+  border-color: #E2E8F0;
+}
+
+html.light input,
+html.light textarea,
+html.light select {
+  color: #0F172A;
+}
+
+html.light input::placeholder,
+html.light textarea::placeholder {
+  color: #94A3B8;
+}
+
+/* Accent badges/pills (ratings, genre chips, status highlights) use
+   bright -300/-400 shades tuned to pop on a near-black background. On a
+   light background those same shades read as washed-out/low-contrast —
+   this darkens them one step (their -600 equivalent) in light mode only,
+   keeping the same hue so each badge is still recognizable at a glance. */
+html.light [class*="text-amber-300"],
+html.light [class*="text-amber-400"] { color: #B45309; }
+
+html.light [class*="text-cyan-300"],
+html.light [class*="text-cyan-400"] { color: #0E7490; }
+
+html.light [class*="text-emerald-300"],
+html.light [class*="text-emerald-400"] { color: #047857; }
+
+html.light [class*="text-rose-300"],
+html.light [class*="text-rose-400"] { color: #BE123C; }
+
+html.light [class*="text-violet-300"],
+html.light [class*="text-violet-400"] { color: #6D28D9; }
+
+html.light [class*="text-pink-300"],
+html.light [class*="text-pink-400"] { color: #BE185D; }
+
+html.light [class*="text-indigo-300"],
+html.light [class*="text-indigo-400"] { color: #4338CA; }
+
+/* Media overlays — always dark, regardless of theme. Equal-or-higher
+   specificity than the general rules above + declared after them, so
+   these win for anything also carrying `.media-overlay` (see HeroSpotlight,
+   MovieCard's poster wrapper, MovieDetailsModal's backdrop, TrailerModal). */
+html.light .media-overlay,
+html.light .media-overlay[class*="text-white"],
+html.light .media-overlay [class*="text-white"],
+html.light .media-overlay [class*="text-slate-200"],
+html.light .media-overlay [class*="text-slate-300"] {
+  color: #F1F5F9;
+}
+
+html.light .media-overlay [class*="text-slate-400"] {
+  color: #94A3B8;
+}
+
+html.light .media-overlay [class*="text-amber-300"] { color: #FCD34D; }
+html.light .media-overlay [class*="text-amber-400"] { color: #FBBF24; }
+html.light .media-overlay [class*="text-cyan-300"] { color: #67E8F9; }
+html.light .media-overlay [class*="text-cyan-400"] { color: #22D3EE; }
+
+html.light .media-overlay[class*="bg-slate-700"],
+html.light .media-overlay [class*="bg-slate-700"],
+html.light .media-overlay[class*="bg-slate-900"],
+html.light .media-overlay [class*="bg-slate-900"] {
+  background-color: #0F172A;
+}
+
+html.light .media-overlay[class*="bg-slate-950"],
+html.light .media-overlay [class*="bg-slate-950"] {
+  background-color: #020617;
+}
+
+html.light .media-overlay[class*="border-slate-800"],
+html.light .media-overlay [class*="border-slate-800"] {
+  border-color: #1F293D;
+}
+
+/* Consistent, visible focus ring in both themes — was relying entirely
+   on the browser default outline, which several components suppress
+   with `outline-none` without a replacement, hurting keyboard nav. */
+html.light *:focus-visible {
+  outline: 2px solid #0891B2;
+  outline-offset: 2px;
+}
+
+/* Gradient Glowing Text */
+.gradient-text {
+  @apply bg-clip-text text-transparent bg-gradient-to-r from-cyan-500 via-violet-600 to-amber-500;
+}
+
+/* Custom Horizontal & Vertical Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #1F293D;
+  border-radius: 9999px;
+}
+html.light ::-webkit-scrollbar-thumb {
+  background: #CBD5E1;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #06B6D4;
+}
+
+/* Animation Utilities */
+.hover-lift {
+  @apply transition-all duration-300 hover:-translate-y-1.5 hover:shadow-xl hover:shadow-cyan-500/10;
+}

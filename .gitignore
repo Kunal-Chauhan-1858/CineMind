@@ -1,0 +1,26 @@
+# --- Environments / secrets ---
+.env
+.env.local
+*.env
+!.env.example
+
+# --- Python ---
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# --- Node ---
+node_modules/
+dist/
+build/
+
+# --- Database ---
+*.db
+*.sqlite3
+
+# --- Editor / OS ---
+.vscode/
+.idea/
+.DS_Store
