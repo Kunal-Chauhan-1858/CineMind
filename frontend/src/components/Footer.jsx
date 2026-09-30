@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import { Heart } from 'lucide-react';
 import Logo from './Logo';
 
@@ -25,8 +26,17 @@ export default function Footer() {
           <span>FastAPI</span> • <span>React 18</span> • <span>Hybrid Scorer</span> • <span>Movie Assistant</span>
         </div>
 
-        <div className="text-xs text-slate-500 flex items-center gap-1">
-          Built with <Heart className="w-3.5 h-3.5 text-rose-500 fill-rose-500" /> for film lovers worldwide.
+        <div className="text-xs text-slate-500 flex flex-col items-center md:items-end gap-1.5">
+          <div className="flex items-center gap-4">
+            <Link to="/support" className="hover:text-cyan-400 transition-colors">Support</Link>
+            <Link to="/privacy" className="hover:text-cyan-400 transition-colors">Privacy</Link>
+          </div>
+          <div className="flex items-center gap-1">
+            Built with <Heart className="w-3.5 h-3.5 text-rose-500 fill-rose-500" /> for film lovers worldwide.
+          </div>
+          <p className="max-w-xs text-center md:text-right text-slate-500">
+            This product uses the TMDB API but is not endorsed or certified by TMDB. Movie data and images courtesy of TMDB.
+          </p>
         </div>
 
       </div>

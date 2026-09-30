@@ -17,6 +17,8 @@ import Home from './pages/Home';
 import WatchlistPage from './pages/WatchlistPage';
 import ProfilePage from './pages/ProfilePage';
 import AuthPage from './pages/AuthPage';
+import Support from './pages/Support';
+import Privacy from './pages/Privacy';
 
 // Code-split the heaviest routes -- Discover (search/filter UI), Dashboard
 // (pulls in the recharts chart library), and AdminDashboard are the
@@ -72,6 +74,8 @@ function AppShell() {
             <Route path="/watchlist" element={<WatchlistPage />} />
             <Route path="/profile" element={<ProfilePage />} />
             <Route path="/admin" element={<AdminDashboard />} />
+            <Route path="/support" element={<Support />} />
+            <Route path="/privacy" element={<Privacy />} />
           </Routes>
         </Suspense>
       </main>

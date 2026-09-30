@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" fill="none">
+  <defs>
+    <linearGradient id="cv-logo-gradient" x1="4" y1="4" x2="44" y2="44" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="55%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#F59E0B"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="#0B0F19"/>
+  <!-- Same geometry as src/components/Logo.jsx (48x48 viewBox), scaled and centered -->
+  <g transform="translate(96 96) scale(6.667)">
+    <circle cx="24" cy="24" r="21" stroke="url(#cv-logo-gradient)" stroke-width="3" fill="none"/>
+    <circle cx="24" cy="6" r="2.6" fill="url(#cv-logo-gradient)"/>
+    <circle cx="40.4" cy="15" r="2.6" fill="url(#cv-logo-gradient)"/>
+    <circle cx="40.4" cy="33" r="2.6" fill="url(#cv-logo-gradient)"/>
+    <circle cx="24" cy="42" r="2.6" fill="url(#cv-logo-gradient)"/>
+    <circle cx="7.6" cy="33" r="2.6" fill="url(#cv-logo-gradient)"/>
+    <circle cx="7.6" cy="15" r="2.6" fill="url(#cv-logo-gradient)"/>
+    <path d="M19.5 16.5L31.5 24L19.5 31.5V16.5Z" fill="url(#cv-logo-gradient)"/>
+  </g>
+</svg>
