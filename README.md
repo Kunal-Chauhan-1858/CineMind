@@ -114,7 +114,9 @@ Runs backend on `:8000` and frontend on `:5173` as separate containers.
 | Variable | Purpose |
 |---|---|
 | `APP_NAME` / `ENVIRONMENT` / `DEBUG` | Basic app metadata |
-| `SECRET_KEY` / `ALGORITHM` / `ACCESS_TOKEN_EXPIRE_MINUTES` | JWT signing |
+| `SECRET_KEY` / `ALGORITHM` / `ACCESS_TOKEN_EXPIRE_MINUTES` | JWT signing. Outside development the app refuses to start unless `SECRET_KEY` is a private 32+ character value |
+| `ENVIRONMENT` | `development` (default) or `production`. Set `production` when deployed |
+| `ADMIN_PASSWORD` | Password for `admin@cinemind.app`. No default; if unset, no admin account is created |
 | `DATABASE_URL` | `sqlite:///./cinemind.db` by default; swap for a Postgres URL |
 | `TMDB_API_KEY` | Enables live catalog sync; app runs on the bundled catalog without it |
 | `CATALOG_PAGES_GLOBAL` / `CATALOG_PAGES_INDIAN_BASE` / `CATALOG_PAGES_KOREAN` / `CATALOG_PAGES_JAPANESE` / `CATALOG_PAGES_SPANISH` / `CATALOG_PAGES_FRENCH` | How many TMDb discover pages to pull per language bucket during catalog sync |
@@ -125,7 +127,6 @@ Runs backend on `:8000` and frontend on `:5173` as separate containers.
 
 | Variable | Purpose |
 |---|---|
-| `VITE_SHOW_DEMO_CREDENTIALS` | Set `true` locally to show the demo-login hint on the sign-in modal; leave unset in production so it doesn't ship |
 
 ## How recommendations work
 

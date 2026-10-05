@@ -5,7 +5,8 @@ from pathlib import Path
 from typing import Dict, List
 from sqlalchemy.orm import Session
 from app.models.models import User, Movie, Genre, Rating, Review, Favorite, Watchlist
-from app.auth.security import get_password_hash
+from app.auth.security import get_password_hash, verify_password
+from app.config.settings import settings
 
 SEED_GENRES = [
     {"name": "Sci-Fi", "slug": "sci-fi"},
@@ -97,23 +98,40 @@ def init_db_data(db: Session):
             db.add(Genre(name=g["name"], slug=g["slug"]))
     db.commit()
 
-    # Ensure admin user exists
-    admin_user = db.query(User).filter(User.email == "admin@cinemind.app").first()
-    if not admin_user:
-        admin_user = User(
-            email="admin@cinemind.app",
-            username="AdminUser",
-            full_name="CineMind Admin",
-            hashed_password=get_password_hash("password123"),
-            avatar_url="https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
-            preferred_genres=["Sci-Fi", "Action", "Bollywood", "Thriller"],
-            favorite_directors=["Christopher Nolan", "S.S. Rajamouli", "Denis Villeneuve"],
-            preferred_vibes=["Mind-Bending", "Adrenaline Rush"],
-            is_admin=True
-        )
-        db.add(admin_user)
+    # Admin account. The password comes ONLY from the ADMIN_PASSWORD
+    # environment variable -- there is no built-in default password.
+    #   set   -> admin is created; on an existing database its password is synced.
+    #   unset -> no admin is created, and if an older database still has the
+    #            retired default password on the admin account, that account is
+    #            locked with a random password.
+    admin_email = "admin@cinemind.app"
+    admin_user = db.query(User).filter(User.email == admin_email).first()
+    if settings.ADMIN_PASSWORD:
+        if not admin_user:
+            admin_user = User(
+                email=admin_email,
+                username="AdminUser",
+                full_name="CineMind Admin",
+                hashed_password=get_password_hash(settings.ADMIN_PASSWORD),
+                avatar_url="https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+                preferred_genres=["Sci-Fi", "Action", "Bollywood", "Thriller"],
+                favorite_directors=["Christopher Nolan", "S.S. Rajamouli", "Denis Villeneuve"],
+                preferred_vibes=["Mind-Bending", "Adrenaline Rush"],
+                is_admin=True
+            )
+            db.add(admin_user)
+            db.commit()
+            db.refresh(admin_user)
+        elif not verify_password(settings.ADMIN_PASSWORD, admin_user.hashed_password):
+            admin_user.hashed_password = get_password_hash(settings.ADMIN_PASSWORD)
+            db.commit()
+    elif admin_user and verify_password("password123", admin_user.hashed_password):
+        admin_user.hashed_password = get_password_hash(secrets.token_urlsafe(32))
         db.commit()
-        db.refresh(admin_user)
+        logging.getLogger(__name__).warning(
+            "Admin account used the retired default password and was locked. "
+            "Set ADMIN_PASSWORD to choose a new one."
+        )
 
     # Ensure a dedicated, non-privileged guest account exists. This is the
     # account anonymous/no-token requests resolve to (see auth/deps.py) so

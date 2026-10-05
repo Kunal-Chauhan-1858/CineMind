@@ -243,16 +243,6 @@ export default function AuthPage({ mode }) {
           >
             <Sparkles className="w-3.5 h-3.5 text-cyan-400" /> Continue browsing as guest
           </button>
-
-          {/* Gated behind an env flag so the demo credentials hint stays
-              useful for local/dev use but never ships to a real deployment.
-              Set VITE_SHOW_DEMO_CREDENTIALS=true in frontend/.env for local
-              dev; leave it unset (default) in production builds. */}
-          {import.meta.env.VITE_SHOW_DEMO_CREDENTIALS === 'true' && (
-            <p className="text-center text-[11px] text-slate-400 dark:text-slate-500 mt-4">
-              Demo credentials: <span className="text-slate-500 dark:text-slate-400 font-mono">admin@cinemind.app / password123</span>
-            </p>
-          )}
         </div>
       </div>
     </div>

@@ -1,4 +1,5 @@
 import os
+import logging
 from typing import List, Union
 
 try:
@@ -27,6 +28,11 @@ class Settings(BaseSettings):
     DATABASE_URL: str = "sqlite:///./cinemind.db"
     
     TMDB_API_KEY: str = ""
+
+    # Password for the built-in admin account (admin@cinemind.app).
+    # There is deliberately NO default: when empty, no admin account is
+    # created (see services/seed_data.py). Set it as an environment variable.
+    ADMIN_PASSWORD: str = ""
 
     # How many TMDb discover pages (20 movies/page) to pull per language
     # bucket during catalog sync -- see catalog_sync.LANGUAGE_BUCKETS.
@@ -69,3 +75,37 @@ class Settings(BaseSettings):
             extra = "ignore"
 
 settings = Settings()
+
+
+# ---------------------------------------------------------------------------
+# SECRET_KEY safety check
+# ---------------------------------------------------------------------------
+# The built-in fallback key is public (it is in this repository), so anyone
+# could forge login tokens -- including admin tokens -- against a server that
+# still uses it. Outside development the app refuses to start without a
+# private key. Set ENVIRONMENT=production on your host.
+_logger = logging.getLogger("cinemind.config")
+_DEV_ENVIRONMENTS = {"development", "dev", "local", "test", "testing"}
+
+
+def _secret_key_is_unsafe(key: str) -> bool:
+    return not key or key.startswith("cinemind-super-secret") or len(key) < 32
+
+
+def _check_secret_key(cfg: "Settings") -> None:
+    if not _secret_key_is_unsafe(cfg.SECRET_KEY):
+        return
+    if cfg.ENVIRONMENT.strip().lower() in _DEV_ENVIRONMENTS:
+        _logger.warning(
+            "SECRET_KEY is the public default or too short. This is fine for local "
+            "development only. Set a private SECRET_KEY and ENVIRONMENT=production when deploying."
+        )
+        return
+    raise RuntimeError(
+        "Refusing to start: SECRET_KEY is missing, too short, or still the public default "
+        f"while ENVIRONMENT='{cfg.ENVIRONMENT}'. Set a private SECRET_KEY (32+ random characters). "
+        "Generate one with: python -c \"import secrets; print(secrets.token_urlsafe(48))\""
+    )
+
+
+_check_secret_key(settings)

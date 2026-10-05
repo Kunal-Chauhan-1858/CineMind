@@ -9,7 +9,9 @@ services:
       - "8000:8000"
     environment:
       - DATABASE_URL=sqlite:///./cinemind.db
-      - SECRET_KEY=cinemind-super-secret-jwt-key-2026
+      # Values come from a git-ignored .env file next to this file (see .env.example)
+      - SECRET_KEY=${SECRET_KEY:?Set SECRET_KEY in a .env file next to docker-compose.yml}
+      - ADMIN_PASSWORD=${ADMIN_PASSWORD:-}
     volumes:
       - ./backend:/app
 
